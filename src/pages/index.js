@@ -22,40 +22,32 @@ export default function Home() {
         <code>src/page/teamMemberName.js</code>
 
         <div className='grid'>
-          <a href='/TomHolland ' className='card'>
-            <h3>Example About Me Page &rarr;</h3>
-            <p>Click here to navigate to an example page</p>
-          </a>
-
-          <a
-            href='https://github.com/vedant29/Project-CSCI-1000'
-            className='card'>
-            <h3>Project Resources&rarr;</h3>
+          <a href="/Denys" className='card'>
+            <h3>Denys &rarr;</h3>
             <p>
-              Return to the Github for resources on creating your own website!
+              Description.
             </p>
           </a>
-          <a
-            href='https://nextjs.org/learn/foundations/about-nextjs'
-            className='card'>
-            <h3>Next.js&rarr;</h3>
-            <p>Click here to learn more about Next.js</p>
+
+          <a href="/Eshaan" className='card'>
+            <h3>Eshaan &rarr;</h3>
+            <p>
+              Another description.
+            </p>
           </a>
-          <a href='https://blog.hubspot.com/website/html' className='card'>
-            <h3>HTML and CSS &rarr;</h3>
-            <p>Click here to learn more about HTML and CSS</p>
-          </a>{' '}
-          <a href='https://tailwindcss.com/' className='card'>
-            <h3>Tailwind css&rarr;</h3>
-            <p>Click here to learn more about tailwind css</p>
+
+          <a href="/Luca" className='card'>
+            <h3>Luca &rarr;</h3>
+            <p>
+              Hey look another description.
+            </p>
           </a>
-          <a href='https://styled-components.com/' className='card'>
-            <h3>Styled Components&rarr;</h3>
-            <p>Click here to learn more about Styled Components</p>
-          </a>
-          <a href='https://www.netlify.com/' className='card'>
-            <h3>Netlify&rarr;</h3>
-            <p>Click here to learn more about Netlify to host your website</p>
+
+          <a href="/JackAustin" className='card'>
+            <h3>Jack Austin &rarr;</h3>
+            <p>
+              Learn about the mysterious man himself.
+            </p>
           </a>
         </div>
       </main>
