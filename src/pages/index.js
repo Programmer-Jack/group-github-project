@@ -12,14 +12,9 @@ export default function Home() {
         <h1 className='title'>WE ARE DENYS, ESHAAN, LUCA, AND JACK.</h1>
 
         <p className='description'>
-          Get started by editing <code>src/pages/index.js</code> to be your
-          project home page.
+          This site serves to teach <em>you</em> &mdash; yes, <em>you</em> &mdash; about
+          what is perhaps the greatest computer science squad ever assembled.
         </p>
-        <p className='description2'>
-          Next, each team member will create their own about me file in the
-          pages directory:{' '}
-        </p>
-        <code>src/page/teamMemberName.js</code>
 
         <div className='grid'>
           <a href="/Denys" className='card'>
