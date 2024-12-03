@@ -34,7 +34,7 @@ export default function Home() {
           <a href="/Luca" className='card'>
             <h3>Luca &rarr;</h3>
             <p>
-              Hey look another description.
+              A small description of Luca.
             </p>
           </a>
 
